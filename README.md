@@ -1,4 +1,7 @@
 # TareasCursos
+
+### Brayan Santiago Amorocho Lizcano
+### María Sofía Cárdenas Canchón
 Este repostorio debe clonarse para reportar las tareas y asignaciones
 Dispone de tres directorios: 
 + DocPDF (para albergar los documentos)
